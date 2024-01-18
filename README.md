@@ -8,8 +8,9 @@ This is a budget management system built with Node.js that allows users to set b
 
 ### Prerequisites
 
-- Node.js installed on your machine.
-- npm (Node Package Manager) installed.
+- [Python](https://www.python.org/)
+- [Node.js](https://nodejs.org/en/) installed on your machine.
+- [npm (Node Package Manager)](https://www.npmjs.com/) installed.
 
 ### Running the App
 

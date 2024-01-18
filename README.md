@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a budget management system built with Node.js that allows users to add items to shopping cart, and calculate total expenses. The system also supports changing the money value icon based on the location (Dollar, Pound, Euro, Rupee).
+This is a budget management system built with Node.js that allows users to set budgets, add or alter expenses for different company departments, and calculate the remaining budget and total expenses. The system also supports changing the money value icon based on the currency (Dollar, Pound, Euro, Rupee).
 
 ## Getting Started
 
@@ -60,23 +60,23 @@ This is a budget management system built with Node.js that allows users to add i
 
 ## Usage
 
-1. **Add Shopping Cart**
-   - Add or remove item quantity bought into shopping cart
+1. **Set Budget:**
+   - Visit the application and set the initial budget for the company.
 
-2. **Calculate total cost:**
-   - Returns total cost of shopping cart
+2. **Add or Alter Expenses:**
+   - Navigate to the respective department sections (Marketing, Finance, Sales, Human Resource, IT).
+   - Add or alter expenses for each department as needed.
 
-3. **Change Money Value :**
-   - Customize the money value icon based on the target location(UK, India, Europe, Canada).
+3. **Calculate Remaining Budget and Total Expenses:**
+   - The system will automatically calculate and display the remaining budget and total expenses.
+
+4. **Change Money Value Icon:**
+   - Customize the money value icon based on the desired currency (Dollar, Pound, Euro, Rupee).
   
 ## Awaiting Updates
 
-1. **Add or Alter items**
-   - Allowing user to add thier own items and edit unit price
-
-2. **Allow Customizing location and exchange face value**
-   - Create more locations for selection
-   - create new function tracking exchange rates and exchanging face value 
+1. **Add or Alter departments**
+   - Allowing user to add their own departments
 
 ## Contributing
 

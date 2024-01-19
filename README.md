@@ -20,7 +20,7 @@
 
 ## Overview
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 This is a budget management system built with Node.js that allows users to set budgets, add or alter expenses for different company departments, and calculate the remaining budget and total expenses. The system also supports changing the money value icon based on the currency (Dollar, Pound, Euro, Rupee).
 

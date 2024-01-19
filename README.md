@@ -1,4 +1,12 @@
 <a name="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Budget Management System
 
 ### Built With
@@ -118,3 +126,16 @@ This project is licensed under the Apache 2.0 - see the [LICENSE](LICENSE) file 
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+
+[contributors-shield]: https://img.shields.io/github/contributors/Li-HsuanChien/budget_manage_system.svg?style=for-the-badge
+[contributors-url]: https://github.com/Li-HsuanChien/budget_manage_system/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Li-HsuanChien/budget_manage_system.svg?style=for-the-badge
+[forks-url]: https://github.com/Li-HsuanChien/budget_manage_system/network/members
+[stars-shield]: https://img.shields.io/github/stars/Li-HsuanChien/budget_manage_system.svg?style=for-the-badge
+[stars-url]: https://github.com/Li-HsuanChien/budget_manage_system/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Li-HsuanChien/budget_manage_system.svg?style=for-the-badge
+[issues-url]: https://github.com/Li-HsuanChien/budget_manage_system/issues
+[license-shield]: https://img.shields.io/github/license/Li-HsuanChien/budget_manage_system.svg?style=for-the-badge
+[license-url]: https://github.com/Li-HsuanChien/budget_manage_system/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/lihsuan-chien/

@@ -23,7 +23,7 @@ This is a budget management system built with Node.js that allows users to set b
 2. Navigate to the project directory:
 
     ```bash
-    cd budget-management-system
+    cd budget_management_system
     ```
 
 3.  Set up a virtual environment (optional but recommended):

@@ -22,7 +22,19 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This is a budget management system built with Node.js that allows users to set budgets, add or alter expenses for different company departments, and calculate the remaining budget and total expenses. The system also supports changing the money value icon based on the currency (Dollar, Pound, Euro, Rupee).
+## Features
+
+**Budget Management:**
+    - Set budgets for different company departments.
+    - Add or alter expenses to track spending.
+
+**Expense Calculation:**
+    - Calculate remaining budget for each department.
+    - View total expenses across the organization.
+
+**Currency Support:**
+    - Change the money value icon based on the currency.
+    - Supported currencies: Dollar, Pound, Euro, Rupee.
 
 ## Getting Started
 
@@ -88,17 +100,18 @@ This is a budget management system built with Node.js that allows users to set b
 ## Usage
 
 1. **Set Budget:**
-   - Visit the application and set the initial budget for the company.
+   - Visit the application and set the initial budget for the company using the budget input.
 
 2. **Add or Alter Expenses:**
    - Navigate to the respective department sections (Marketing, Finance, Sales, Human Resource, IT).
-   - Add or alter expenses for each department as needed.
+   - Add ,deduct, or remove expenses for each department as needed using buttons on table.
+   - Add specific expense amount using the expense allocator below
 
 3. **Calculate Remaining Budget and Total Expenses:**
-   - The system will automatically calculate and display the remaining budget and total expenses.
+   - The system will automatically calculate and display the remaining budget and total expenses presented in regarding boxes.
 
 4. **Change Money Value Icon:**
-   - Customize the money value icon based on the desired currency (Dollar, Pound, Euro, Rupee).
+   - Customize the money value icon based on the desired currency (Dollar, Pound, Euro, Rupee) using the currency bar.
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
